@@ -12,7 +12,7 @@ Compared with the original method, this implementation includes several modifica
 - Add several more eye-mouth features into consideration
 - Select the most likely facial landmark triplet using geometric constraints and a trained Random Forest classifier.
 
-[View Project Report](docs/report.pdf)
+[View Project Report](docs/ADSP_Final.pdf)
 ## Overview
 
 The goal of this project is to detect faces in an image by identifying the best combination of:
